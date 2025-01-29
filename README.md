@@ -2,7 +2,7 @@
 
 🎓 **Computer Engineering Graduate** | 💻 **Data Science Enthusiast** | 🎮 **Software Developer**
 
-Welcome to my GitHub profile! I'm passionate about exploring cutting-edge technologies, developing innovative projects, and continuously improving my skills in software engineering, data science, and game development.
+Welcome to my GitHub profile! I'm passionate about exploring cutting-edge technologies, developing innovative projects, and continuously improving my skills in software engineering, data science, and web development.
 
 ---
 
