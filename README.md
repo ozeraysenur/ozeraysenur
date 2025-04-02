@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm passionate about exploring cutting-edge techno
 ## 🌟 **About Me**
 
 - 🎓Graduate from **Muğla Sıtkı Koçman University** majoring in Computer Engineering.
-- 🌱 Currently focusing on bioinformatics and cancer analysis using R and Shiny.
-- 💻 Experienced in building user-friendly interfaces with **React** and **Material UI**.
+- 🌱 Currently focusing on frontend development and AI.
+- 💻 Experienced in building user-friendly interfaces with **React** **Redux** and **TailwindCSS**.
 - 🧠 Passionate about problem-solving, data visualization, and algorithm design.
 
 ---
