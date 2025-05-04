@@ -71,7 +71,7 @@ Welcome to my GitHub! I’m passionate about building impactful AI & machine lea
 
 - 🔗 [LinkedIn](https://linkedin.com/in/ayse-nur-ozer)
 - 📧 [Email](mailto:ozeraysenur24@gmail.com)
-- 💼 [Portfolio Website](https://ozeraysenur.vercel.app)
+- 💼 [Portfolio Website](https://my-portfolio-website-jet-eight.vercel.app/)
 
 ---
 
