@@ -8,7 +8,7 @@ Welcome to my GitHub! I’m passionate about building impactful AI & machine lea
 
 ## 🌟 About Me
 
-- 🎓 Graduated with honors from **Muğla Sıtkı Koçman University** (Computer Engineering).
+- 🎓 Graduated with honors from Computer Engineering.
 - 🤖 Currently advancing my skills in **Machine Learning**, **AI-driven applications**, and **Fullstack Development**.
 - 💻 Developed 40+ projects with **React**, **Redux**, **TailwindCSS**, and **Material UI**.
 - 🚀 Actively working on AI-focused projects: NLP, anomaly detection, and data visualization.
