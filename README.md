@@ -2,28 +2,29 @@
 
 🎓 **Computer Engineering Graduate** | 🤖 **AI & Data Science Explorer** | 💻 **Frontend Developer with AI Integration**
 
-Welcome! I'm Ayşe Nur, a computer engineer passionate about turning complex AI ideas into real-world applications. Whether it's designing knowledge graph chatbots or deploying clean, modern UIs — I thrive at the intersection of **AI** and **Web Development**.
+Welcome! I'm Ayşe Nur a curious builder blending AI with real-world web applications.  
+From developing LLM-powered chatbots to designing modern, responsive UIs, I thrive where **AI meets UX**.
 
 ---
 
-## 🌟 Who Am I?
+## 🌟 About Me
 
-- 🎓 Graduated with honors in Computer Engineering  
-- 🤖 Building **LLM-powered chatbots**, **RAG systems**, and **semantic search** tools  
-- 💻 Developed 40+ web projects using **React**, **Redux**, **TailwindCSS**  
-- 🧠 Strong in **data visualization**, **NLP**, **vector search**, and **graph databases**  
-- 💬 Currently creating an **AI assistant** that leverages **Neo4j**, **LangChain**, and **Streamlit**  
-- 🔄 Always learning, always building. Passionate about **accessible AI**, **open knowledge**, and **impactful tech**
+- 🧠 Passionate about **AI for good**, **open knowledge**, and **impactful tech**
+- 🤖 Building tools with **LangChain**, **OpenAI**, **Neo4j**, and **Streamlit**
+- 📊 Experienced in **NLP**, **data visualization**, **vector search**, and **graph databases**
+- 💻 Developed 40+ projects with **React**, **TailwindCSS**, **Redux**
+- 🎓 Graduated with honors in Computer Engineering
+- 🔄 Always learning. Always building.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:** Python, JavaScript, R, SQL, HTML/CSS  
-**AI/ML:** Scikit-learn, TensorFlow, LangChain, OpenAI, NLTK, SpaCy, Hugging Face  
-**Frontend:** React, Tailwind CSS, Redux, Material UI, Vite, Next.js  
-**Tools:** Git, GitHub, Jupyter, Streamlit, Postman, Docker  
+**AI/ML:** Scikit-learn, TensorFlow, LangChain, OpenAI, Hugging Face, SpaCy  
+**Frontend:** React, Tailwind CSS, Redux, Material UI, Next.js, Vite  
 **Databases:** Neo4j, PostgreSQL, Firebase, MySQL  
+**Tools:** Jupyter, Git, GitHub, Streamlit, Docker, Postman  
 **Other:** Prompt Engineering, Web Scraping, Bioinformatics (TCGA, BioPython)
 
 ---
