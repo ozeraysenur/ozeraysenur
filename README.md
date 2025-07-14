@@ -39,9 +39,8 @@ LLM-powered chatbot that answers natural language queries about Amazon product r
 - Visualized mutations across 33 cancer types using 256GB of genomic data  
 - Built with **Shiny (R)** – funded by **TÜBİTAK 2209-A**
 
-### 🛡️ [UNSW-NB15 Anomaly Detection](https://github.com/ozeraysenur/UNSW-NB15-Anomaly-Detection)
-- Unsupervised detection pipeline for cyber threats  
-- Used **DBSCAN**, **Isolation Forest**, and **PCA** for visualization
+### 🛡️ [Machine Learning Portfolio](https://github.com/ozeraysenur/machine_learning_portfolio)
+- End-to-end ML projects on real datasets with EDA, modeling, and evaluation
 
 ### 🌐 [AI-Enhanced Portfolio Website](https://github.com/ozeraysenur/MyPortfolioWebsite)
 - Fully responsive personal site using **React**, **TailwindCSS**, and **AI-generated visuals**  
