@@ -87,7 +87,7 @@ Supports multilingual content dynamically from a single source
 
 ## 🌐 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/ayse-nur-ozer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ayse-nur-ozer)
 
 
 ---
