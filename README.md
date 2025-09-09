@@ -12,12 +12,12 @@ A dedicated Computer Engineer with a strong passion for AI, specializing in buil
 A complete full-stack solution combining a robust backend (**FastAPI, LangChain**) with an intuitive frontend (**React**). [cite_start]This project demonstrates my ability to deliver end-to-end, production-ready AI applications, proving my proficiency in full-stack development and chatbot services[cite: 62, 63].
 
 #### **2. Review Graph Chatbot: LLM-Powered Knowledge Graph**
-Developed an intelligent chatbot capable of analyzing over **10,000 Amazon reviews**. The project utilizes **Neo4j**, **LangChain**, and **RAG pipelines** to enable semantic search and generate accurate, context-rich answers through **Cypher** queries. [cite_start]This showcases my skills in advanced NLP and knowledge graph applications[cite: 64, 65].
+Developed an intelligent chatbot capable of analyzing over **10,000 Amazon reviews**. The project utilizes **Neo4j**, **LangChain**, and **RAG pipelines** to enable semantic search and generate accurate, context-rich answers through **Cypher** queries. This showcases my skills in advanced NLP and knowledge graph applications.
 
 #### **3. Freelance AI Developer: Tangible Business Impact**
 Engineered two virtual assistants that significantly improved user experience and operational efficiency for clients.
-* [cite_start]Increased user interaction by **30%** and reduced unanswered queries by **40%** by integrating **LangChain**, **RAG**, and the **WhatsApp API**[cite: 51, 52].
-* [cite_start]Optimized backend infrastructure with a hybrid **Qdrant** and **PostgreSQL** setup, improving scalability and cutting downtime by **25%**[cite: 53].
+* Increased user interaction by **30%** and reduced unanswered queries by **40%** by integrating **LangChain**, **RAG**, and the **WhatsApp API**.
+* Optimized backend infrastructure with a hybrid **Qdrant** and **PostgreSQL** setup, improving scalability and cutting downtime by **25%**.
 
 ---
 
@@ -38,7 +38,7 @@ Engineered two virtual assistants that significantly improved user experience an
 
 * **Google Project Management Professional Certificate** (via MentorMe Collective & Google)
 * **Samsung Innovation Campus: AI Education** (Ongoing)
-* [cite_start]**Bachelor of Computer Engineering**, Muğla Sıtkı Koçman University [cite: 42]
+* **Bachelor of Computer Engineering**, Muğla Sıtkı Koçman University 
 * **Selected Participant** in multiple highly competitive bootcamps (Upschool, Patika.dev)
 
 ---
